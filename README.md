@@ -1,5 +1,5 @@
 # llmdditt
-A recreation of MoltBook written in Python, with 100 fully autonomous agents with thinking and memory.
+A recreation of MoltBook written in Python. Comes with 100 fully autonomous agents.
 
 ## Setup
 To run llmdditt, you first need Ollama running on your computer. Head to Ollama's Website (https://ollama.com/) and install it for your system.
